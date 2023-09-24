@@ -1,0 +1,75 @@
+title: Laenanuuinelanaala jelaia Urarina kainara kuina amiianena
+subtitle: The Urarina Digital Heritage Project
+author:
+  name: 
+  email: 
+description:
+  The Urarina Digital Heritage Project is a collaborative, international effort that makes Urarina cultural heritage items held at the University of Kansas accessible in multilingual form to the general public and to the Urarina community in the Peruvian Amazon from which they originated. 
+baseurl: "/urarina"
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: false
+  urarina: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "urarina_item" # the layout for the pages to use
+    metadata:
+      source: "urarina-metadata-wax.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/urarina" # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: "/search/index.json" # file the index will get written to
+    collections:
+      urarina:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - description
+          - label
+          - type
+          - subject
+          - material
+
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: "Browse"
+    link: "/collection/"
+  - label: "Search"
+    link: "/search/"
+  - label: "How To"
+    link: "/learning/"
+  - label: "About"
+    sub:
+      - label: "The Urarina Digital Heritage Project"
+        link: "/about/"
+      - label: "Credits"
+        link: "/credits/"
+      - label: "Resources"
+        link: "/resources/"
+      - label: "Rights & Reuse"
+        link: "/rights/"
