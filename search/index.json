@@ -5,6 +5,7 @@ layout: none
   {
     "pid": "2007.4697",
     "label": "Bowl",
+    "type": "Container",
     "description": "The small bowl has a slightly flared rim and is slightly lopsided. It is undecorated and light brown. Late 1800's-1996. 7 x 10 cm; 2 3/4 x 3 7/8 in",
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -17,6 +18,7 @@ layout: none
   {
     "pid": "2007.4698",
     "label": "Small Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Paint;Container",
@@ -29,6 +31,7 @@ layout: none
   {
     "pid": "2007.4699",
     "label": "Bowl",
+    "type": "Container",
     "description": "The wide, shallow bowl has a slightly flaring rim. It has a white field and the exterior is decorated with a yellow \"X\" and two yellow chevrons in the space between each arm. The interior is undecorated, but the rim is yellow. Late 1800s-1996. 5 x 18.5 cm",
     "material": "Ceramic",
     "subject": "Ceramic;Paint;Container",
@@ -39,20 +42,22 @@ layout: none
     "lunr_id": 2
   },
   {
-    "pid": "2007.47",
+    "pid": "2007.4700",
     "label": "Bowl",
-    "description": null,
+    "type": "Recipientes",
+    "description": "kaa darue te atane kusumara kaje janujuine, kulutelanaana, raüjiain süraa kaün jichüjichueriin kauatiin tükütuane jaaün, nüjüae meruakaain, süri tijiichaain, ichüünejeein nülünu laüekaain.",
     "material": "Ceramic",
     "subject": "Ceramic;Container",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.4700/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.47",
+    "permalink": "/urarina/2007.4700",
     "lunr_id": 3
   },
   {
     "pid": "2007.4701",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -65,6 +70,7 @@ layout: none
   {
     "pid": "2007.4702",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -77,6 +83,7 @@ layout: none
   {
     "pid": "2007.4703",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -89,6 +96,7 @@ layout: none
   {
     "pid": "2007.4704",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -101,6 +109,7 @@ layout: none
   {
     "pid": "2007.4705",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -113,6 +122,7 @@ layout: none
   {
     "pid": "2007.4706",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -125,6 +135,7 @@ layout: none
   {
     "pid": "2007.4707",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -137,6 +148,7 @@ layout: none
   {
     "pid": "2007.4708",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -149,6 +161,7 @@ layout: none
   {
     "pid": "2007.4709",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -161,6 +174,7 @@ layout: none
   {
     "pid": "2007.4711",
     "label": "Bowl",
+    "type": "Container",
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -173,7 +187,8 @@ layout: none
   {
     "pid": "2007.4713",
     "label": "Bowl",
-    "description": "The bowl has flared sides and a flat bottom. It has a red exterior and a black interior. Late 1800s-1996. 10 x 28.5 cm; 3 7/8 x 11 1/4 in",
+    "type": null,
+    "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
     "collection": "urarina",
@@ -185,6 +200,7 @@ layout: none
   {
     "pid": "2007.4714",
     "label": "Bowl",
+    "type": null,
     "description": null,
     "material": "Ceramic",
     "subject": "Ceramic;Container",
@@ -197,6 +213,7 @@ layout: none
   {
     "pid": "2007.4812",
     "label": "Basket with Handle",
+    "type": "Container",
     "description": "The basket has a round body that tapers as it gets taller. One handle spans the opening, though it is broken. It is dark brown but otherwise undecorated. It is slightly lopsided. Late 1800s-2007. 21.5 x 25 x 29.5 cm depth includes handle; 8 7/16 x 9 13/16",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Container",
@@ -209,6 +226,7 @@ layout: none
   {
     "pid": "2007.4827",
     "label": "Storage Basket",
+    "type": "Container",
     "description": "The bottom and sides of the rectangular basket are created from strips of palm fiber stitched together at either end and the middle. The bottom edge and rim appear to be wood to provide structure, held in place with plant fiber string. Late 1800s-1996. 15&nbsp;x 27 x 49.5 cm; 5 7/8 x 10 5/8 x 19 1/2 in",
     "material": "Palm fiber;plant fiber;wood",
     "subject": "Palm fiber;Plant fiber;Wood;Container",
@@ -221,6 +239,7 @@ layout: none
   {
     "pid": "2007.4828",
     "label": "Storage Basket",
+    "type": "Container",
     "description": "The bottom and sides of the rectangular basket are created from strips of palm fiber stitched together at either end and the middle. The bottom edge and rim appear to be wood to provide structure, held in place with plant fiber string. Late 1800s-1996. 15 x 24 x 48.5 cm; 5 7/8 x 9 7/16 x 19 1/8 in",
     "material": "Palm fiber;plant fiber;wood",
     "subject": "Palm fiber;Plant fiber;Wood;Container",
@@ -233,11 +252,12 @@ layout: none
   {
     "pid": "2007.4873",
     "label": "Child's Hammock",
+    "type": "Furniture and furnishings",
     "description": "The small hammock is made from twisted plant fiber cords knotted at regular intervals. There are wooden rods at either end. It is a light natural color with two darker brown stripes in the hammock. The ropes at either end are braided plant fibers. Late 1800s-1996.&nbsp;65 x 32.5 cm length does not include straps; 25 9/16 x 12 3/4 in length does not include straps",
     "material": "plant fiber;wood;braiding;dyeing",
     "subject": "Plant fiber;Wood;Braiding;Dyeing;Furniture and furnishings",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.4873/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.4873",
     "lunr_id": 19
@@ -245,6 +265,7 @@ layout: none
   {
     "pid": "2007.4874",
     "label": "Pillow",
+    "type": "Furniture and furnishings",
     "description": "The small rectangular pillow is possibly stuffed with cloth. The exterior of the pillow is woven from fine plant fiber strings. Light natural stripes alternate with darker brown. The stripes are parallel to the long axis of the rectangle. Late 1800s-early 2000s.&nbsp;37.5 x 23.5 x 11.5 cm; 14 3/4 x 9 1/4 x 4 1/2 in",
     "material": "plant fiber;possibly cloth;weaving;dyeing",
     "subject": "Plant fiber;Possibly cloth;Weaving;Dyeing;Furniture and furnishings",
@@ -257,11 +278,12 @@ layout: none
   {
     "pid": "2007.4883",
     "label": "Quiver and Gourd with Poison Darts",
+    "type": "Weapon",
     "description": "The bamboo tube has a resin plug at one end. It is decorated with diagonal lines at the open end and three bands of dark string. The strap is made of woven plant fiber. A small object, possibly a bone, is tethered at one side of the handle and there is a small metal tab at the other. There are four arrows or darts in the quiver. The round gourd, called a pate, is filled with plant fiber. The gourd was once attached to the tube. One large hole is drilled on one side and two smaller holes are drilled on the other side.&nbsp;Late 1800s-2007.&nbsp;.01) 68 x 9.5 x 4.5 cm; .01) 26 3/4 x 3 3/4 x 1 3/4 in ; .02) 9 x 11.5 cm; .02) 3 1/2 x 4 1/2 in",
     "material": "Bamboo;plant fiber;gum resin;gourd;string;metal;possibly bone;capok fiber;weaving;incising",
     "subject": "Bamboo;Plant fiber;Gum resin;Gourd;String;Metal;Possibly bone;Capok fiber;Weaving;Incising;Weapon",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.4883/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.4883",
     "lunr_id": 21
@@ -269,6 +291,7 @@ layout: none
   {
     "pid": "2007.4887",
     "label": "Jadé (quiver with darts)",
+    "type": "Weapon",
     "description": "The quiver is made from a bamboo tube closed at one end with a thick coat of resin. The open end is decorated with a band of chevrons. The tube is decorated with incised lines in erratic shapes. A small stick is tied to the shaft with twisted plant fiber cord. The stick holds a brown spherical gourd with a small opening that shows fluffy white plant fiber filling. There is a strap of woven plant fiber held in place with a band of green cord. A bundle of grasses inside holds the darts in place. There is a small tuft of downy white material caught on the end of a dart. 1900s.&nbsp;18 x 12.5 x 34 cm length without strap; 7 1/16 x 4 7/8 x 13 3/8 in length without strap",
     "material": "Marona wood;gum resin;pate gourd;huimba fiber;tamishi vine;chambira palm fiber;weaving;incising",
     "subject": "Marona wood;Gum resin;Pate gourd;Huimba fiber;Tamishi vine;Chambira palm fiber;Weaving;Incising;Weapon",
@@ -279,20 +302,22 @@ layout: none
     "lunr_id": 22
   },
   {
-    "pid": "2007.489",
+    "pid": "2007.4890",
     "label": "Toy Boat",
+    "type": "Recreational artifacts",
     "description": "The roughly carved boat has a flat roof supported by four posts. The two planks were originally the sides to the structure atop the boat but are not currently attached. Long green string is tied to a nail at the flat end and there is short green string at the nail at the pointed end. \"Jose Nurive Joguisto\" is handwritten in pencil on the proper left side of the boat. It is a light natural color. Late 1800s-1996.&nbsp;12.5 x 11.5 x 35 cm; 4 7/8 x 4 1/2 x 13 3/4 in",
     "material": "wood;string;carving",
     "subject": "Wood;String;Carving;Recreational artifacts",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.4890/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.489",
+    "permalink": "/urarina/2007.4890",
     "lunr_id": 23
   },
   {
     "pid": "2007.5083",
     "label": "Fan",
+    "type": "Clothing accessory",
     "description": "The fan has a round woven blade. The ends of the plant fibers are gathered at one end into a handle. It is brown with lighter plant fibers around the perimeter of the blade. Late 1800s-1996.&nbsp;26 x 29 x 2 cm; 14 1/8 x 11 3/8 x 3/4 in",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Clothing accessory",
@@ -305,6 +330,7 @@ layout: none
   {
     "pid": "2007.5084",
     "label": "Fan or Flyswatter",
+    "type": "Clothing accessory",
     "description": "The hand held fan has a round woven blade. The loose ends of the fibers are gathered together into a handle bundled with dark green yarn.&nbsp;Late 1800s-1996.&nbsp;34 x 24.5 x 2 cm; 13 3/8 x 9 5/8 x 3/4 in",
     "material": "plant fiber;yarn;weaving;dyeing",
     "subject": "Plant fiber;Yarn;Weaving;Dyeing;Clothing accessory",
@@ -317,6 +343,7 @@ layout: none
   {
     "pid": "2007.5085",
     "label": "Fan or Flyswatter",
+    "type": "Clothing accessory",
     "description": "The handheld fan has a round blade. The loose ends of the fibers are bundled into a handle. It is brown.&nbsp;Late 1800s-1996.&nbsp;37 x 29 x 2.5 cm; 14 9/16 x 11 3/8 x 1 in",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Clothing accessory",
@@ -329,6 +356,7 @@ layout: none
   {
     "pid": "2007.5086",
     "label": "Fan",
+    "type": "Clothing accessory",
     "description": "The handheld fan has a round woven blade. The loose ends are bundled into a handle, held in place with cord. Late 1800s-1996.&nbsp;48 x 36.5 x 4 cm; 18 7/8 x 14 3/8 x 1 9/16 in",
     "material": "plant fiber;cord;weaving",
     "subject": "Plant fiber;Cord;Weaving;Clothing accessory",
@@ -341,6 +369,7 @@ layout: none
   {
     "pid": "2007.5091",
     "label": "Sifter",
+    "type": "Culinary equipment",
     "description": "The flat square tray has a bundle of fibers around each edge. The bottom portion is woven from light and dark fibers, giving a striped effect. The edges are bundles of fibers held in place with plant fiber strings. It was used to sift foreign matter from casava when making beer. Late 1800s-2007.&nbsp;50 x 47 x 6 cm; 19 5/8 x 18 1/2 x 2 3/8 in",
     "material": "Possibly tomishi fiber;palm leaf fiber;weaving",
     "subject": "Possibly tomishi fiber;Palm leaf fiber;Weaving;Culinary equipment",
@@ -353,6 +382,7 @@ layout: none
   {
     "pid": "2007.5092",
     "label": "Sifter",
+    "type": "Culinary equipment",
     "description": "The flat square tray's bottom is woven from light natural and light brown fibers in a diagonal pattern. The edges are bundled fibers held in place with plant fiber cords. There is a braided plant fiber cord handle at one corner. It was used to sift foreign matter from cassava when making beer. Late 1800s-2007.&nbsp;46 x 41 x 4 cm; 18 1/8 x 16 1/8 x 1 9/16 in",
     "material": "Possibly tomishi fiber;palm leaf fiber;weaving;braiding",
     "subject": "Possibly tomishi fiber;Palm leaf fiber;Weaving;Braiding;Culinary equipment",
@@ -365,6 +395,7 @@ layout: none
   {
     "pid": "2007.5093",
     "label": "Mat",
+    "type": "Covering",
     "description": "The large rectangular mat was apparently woven in two long strips with a seam down the middle. The light natural and brown stripes alternate. There are thin dark brown stripes between. Late 1800s-1996.&nbsp;198 x 120 cm; 77 15/16 x 47 1/4 in",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Covering",
@@ -377,6 +408,7 @@ layout: none
   {
     "pid": "2007.5094",
     "label": "Mat",
+    "type": "Covering",
     "description": "The long, thin rectangular mat has light natural colored stripes alternating with brown stripes. There are thin dark brown stripes between. Late 1800s-1996.&nbsp;176 x 72.5 cm; 69 1/4 x 28 1/2 in",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Covering",
@@ -389,9 +421,10 @@ layout: none
   {
     "pid": "2007.5095",
     "label": "Mat",
-    "description": "The rectangular mat has light natural and brown stripes. There is one pink stripe in lieu of brown and two stripes that are pink and brown. The thin dark brown stripes separate the others. Late 1800s-1996.&nbsp;140 x 44.5 cm; 55 1/8 x 17 1/2 in",
-    "material": "plant fiber;weaving;dyeing",
-    "subject": "Plant fiber;Weaving;Dyeing;Covering",
+    "type": "Covering",
+    "description": " The rectangular mat has light and brown natural stripes. There is a pink stripe instead of brown and two stripes that are pink and brown. The thin dark brown stripes separate the others.  Late 1800s-1996.;140 x 44,5 cm; 55 1/8 x 17 1/2 pulgadas ",
+    "material": null,
+    "subject": "Plant fiber;Weaving;Covering",
     "collection": "urarina",
     "thumbnail": "img/derivatives/simple/2007.5095/thumbnail.jpg",
     "content": " ",
@@ -401,9 +434,10 @@ layout: none
   {
     "pid": "2007.5096",
     "label": "Mat",
-    "description": "The large rectangular mat was apparently woven in two strips and sewn together. It has light natural stripes and brown stripes with thin dark brown stripes between. Each panel has a light blue stripe down the center with a thin red stripe along the lateral edge. Late 1800s-1996.&nbsp;191 x 113 cm; 75 3/16 x 44 1/2 in",
-    "material": "plant fiber;yarn;weaving;dyeing",
-    "subject": "Plant fiber;Yarn;Weaving;Dyeing;Covering",
+    "type": "Covering",
+    "description": "The large rectangular mat was woven into two pieces and sewn together. It has natural light stripes and brown stripes with thin dark brown stripes in the middle. Each panel has a light blue stripe down the center with a thin red stripe along the side edge. Late 1800-1996;191 x 113 cm; 75 3/16 x 44 1/2 inch",
+    "material": null,
+    "subject": "Plant fiber; Yarn; Fabric; Dye; Coverage",
     "collection": "urarina",
     "thumbnail": "img/derivatives/simple/2007.5096/thumbnail.jpg",
     "content": " ",
@@ -413,6 +447,7 @@ layout: none
   {
     "pid": "2007.5097",
     "label": "Rope",
+    "type": "Tool",
     "description": "The length of rope was made from braided plant fiber. One end has a knot, the other has a small loop. It is brown. Late 1800s-2002.&nbsp;426 cm; 167 11/16 in",
     "material": "plant fiber;braiding",
     "subject": "Plant fiber;Braiding;Tools",
@@ -425,6 +460,7 @@ layout: none
   {
     "pid": "2007.5098",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wooden spoon has a relatively large oval shaped bowl. It has a straight handle. It was made from a light natural colored wood. Late 1800s-1996.&nbsp;31 x 7.5 x 3 cm; 12 3/16 x 2 15/16 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -437,6 +473,7 @@ layout: none
   {
     "pid": "2007.5099",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wooden spoon has a shallow oval bowl. It has a short, straight handle. It is dark brown. Late 1800s-1996.&nbsp;22 x 6 x 2.5 cm; 8 5/8 x 2 3/8 x 1 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -447,20 +484,22 @@ layout: none
     "lunr_id": 36
   },
   {
-    "pid": "2007.51",
+    "pid": "2007.5100",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wooden spoon has a round bowl and a short handle. It has a trapezoid shape at the end of the handle. It is a light natural color. Late 1800s-1996.&nbsp;17.5 x 5 x 2 cm; 6 7/8 x 1 15/16 x 3/4 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5100/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.51",
+    "permalink": "/urarina/2007.5100",
     "lunr_id": 37
   },
   {
     "pid": "2007.5101",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wooden spoon has a round bowl and a straight handle. There is a groove at the junction between the handle and the bowl. It is dark brown. Late 1800s-1996.&nbsp;22.5 x 6.5 x 2.5 cm; 8 7/8 x 2 1/2 x 1 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -473,6 +512,7 @@ layout: none
   {
     "pid": "2007.5102",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The large wooden spoon has a shallow, round bowl and a straight handle. There is a trapezoid and triangles at the end of the handle. There is a groove at the joint with the bowl. Late 1800s-1996.&nbsp;48 x 9 x 3 cm; 18 7/8 x 3 1/2 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -485,6 +525,7 @@ layout: none
   {
     "pid": "2007.5103",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wooden spoon has a large round bowl. It has a relatively short straight handle. There is a narrow trapezoid at the end of the handle. It is dark brown. Late 1800s-1996.&nbsp;32.5 x 10.5 x 2.5 cm; 12 3/4 x 4 1/8 x 1 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -497,6 +538,7 @@ layout: none
   {
     "pid": "2007.5104",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The wood spoon has a round bowl and a triangle at the end of the handle. It is dark brown. Late 1800s-1996.&nbsp;36 x 6 x 2.5 cm; 14 1/8 x 2 3/8 x 1 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -509,6 +551,7 @@ layout: none
   {
     "pid": "2007.5105",
     "label": "Spoon",
+    "type": "Culinary equipment",
     "description": "The large wooden spoon has a round, shallow bowl and a straight handle. It is dark brown. Late 1800s-1996.&nbsp;47 x 11 x 3 cm; 18 1/2 x 4 5/16 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -521,6 +564,7 @@ layout: none
   {
     "pid": "2007.5106",
     "label": "Pan Pipes",
+    "type": "Musical instrument",
     "description": "This is a set of 13 pipes of graduated sizes, held together at the top with a length of plant fiber woven over a stabilizing piece of wood on each side. It is a light natural color. Late 1800s-1996.&nbsp;14.5 x 12 x 1.5 cm; 5 11/16 x 4 3/4 x 9/16 in",
     "material": "Reed;plant fiber;wood",
     "subject": "Reed;Plant fiber;Wood;Musical instruments",
@@ -533,6 +577,7 @@ layout: none
   {
     "pid": "2007.5107",
     "label": "Spinning Top",
+    "type": "Recreational artifacts",
     "description": "The roughly carved conical wooden spinning top has a metal tip and a small cylindrical handle at the top. It is brown. A palm fiber pull cord, which is not present, is used to make it spin. Late 1800s-2002.&nbsp;6 x 4.5 cm; 2 3/8 x 1 3/4 in",
     "material": "wood;metal",
     "subject": "Wood;Metal;Recreational artifacts",
@@ -545,6 +590,7 @@ layout: none
   {
     "pid": "2007.5108",
     "label": "Spinning Top",
+    "type": "Recreational artifacts",
     "description": "The spinning top is made from a small round gourd and a small peg-like handle of wood held in place with resin. There is a small resin knob at the bottom of the gourd and a small hole in the gourd. It is dark brown but the handle is a light natural color. A palm fiber pull cord, which is not present, is used to make this spin. Late 1800s-2002.&nbsp;8.5 x 4 cm; 3 3/8 x 1 9/16 in",
     "material": "gourd;wood;gum resin",
     "subject": "Gourd;Wood;Gum resin;Recreational artifacts",
@@ -557,6 +603,7 @@ layout: none
   {
     "pid": "2007.5109",
     "label": "Pestle",
+    "type": "Culinary equipment",
     "description": "The wooden cylinder has a very wide recessed area near one end that is slightly rounded, to act as a handle. There is a small knob at the end. It is dark brown.&nbsp;Late 1800s-1996.&nbsp;40 x 6 cm; 15 3/4 x 2 3/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Culinary equipment",
@@ -567,20 +614,22 @@ layout: none
     "lunr_id": 46
   },
   {
-    "pid": "2007.511",
+    "pid": "2007.5110",
     "label": "Paddle",
+    "type": "Watercraft and equipment",
     "description": "The wooden paddle has a leaf-shaped blade and a cylindrical shaft. There is a small handle at the end of the shaft. It is a light natural color. Late 1800s-2002.98 x 17.5 x 3 cm; 38 9/16 x 6 7/8 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Watercraft and equipment",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5110/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.511",
+    "permalink": "/urarina/2007.5110",
     "lunr_id": 47
   },
   {
     "pid": "2007.5111",
     "label": "Paddle",
+    "type": "Watercraft and equipment",
     "description": "The wooden paddle has a leaf-shaped blade and a cylindrical shaft. There is a small handle at the end of the shaft. It is a light natural color.&nbsp;Late 1800s-2002.&nbsp;118.5 x 24 x 3 cm; 46 5/8 x 9 7/16 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Watercraft and equipment",
@@ -593,6 +642,7 @@ layout: none
   {
     "pid": "2007.5112",
     "label": "Ceremonial Staff",
+    "type": "Sculpture",
     "description": "The long, straight piece of wood is rectangular with rounded corners in cross section. It tapers toward a rectangle at one end with four notches on either side. It is light brown. This is used both for percussion and balance during hallucinogenic curing sessions.&nbsp;Late 1800s-2002.&nbsp;128 x 7 x 3 cm; 50 3/8 x 2 3/4 x 1 1/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Sculpture",
@@ -605,6 +655,7 @@ layout: none
   {
     "pid": "2007.5113",
     "label": "Shaman's Necklace",
+    "type": "Jewelry",
     "description": "The necklace has a single strand of shell fragments, pointed teeth, hoof, and one dark claw. The teeth and shells are on a cord which is attached to a narrow woven band. A portion of the necklace doesn't have shell or teeth, and that portion is wrapped with plant fiber cord. There is a cord covered with clusters of red and black seeds and clusters of smaller white seeds. That string is attached near the top of the shell and teeth portion of the necklace. There are two more strings, one alternates red and white seeds and the other is primarily black/red seeds with a few white seeds. These strings also attach near the top of the shell and tooth portion, though they appear to hang loosely.&nbsp;Late 1800s-2002.&nbsp;61 x 47 x 7 cm; 24 x 18 1/2 x 2 3/4 in",
     "material": "Fiber;weaving",
     "subject": "Fiber;Weaving;Jewelry",
@@ -617,6 +668,7 @@ layout: none
   {
     "pid": "2007.5114",
     "label": "Shaman's Necklace",
+    "type": "Jewelry",
     "description": "The necklace has a single strand of shell fragments, pointed teeth, hoof and one jaguar tooth. The teeth and shells are on a cord which is attached to a narrow woven band. A portion of the necklace doesn't have shell or teeth, and that portion is wrapped with plant fiber cord. There are two cords covered with clusters of red and black seeds and clusters of smaller white seeds that attach near the top of the shell and teeth portion of the necklace.",
     "material": "Palm fiber;shell;seed;unidentified fiber;giant anteater claw;jaguar claw",
     "subject": "Palm fiber;Shell;Seeds;Unidentified fiber;Giant anteater claw;Jaguar claw;Jewelry",
@@ -629,6 +681,7 @@ layout: none
   {
     "pid": "2007.5115",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The necklace has seven strands of black seeds joined to a single plant fiber cord that ties at the back. There are two teeth, one shell, and a brown seed at the front bottom on the longest strand.&nbsp;Late 1800s-2002.&nbsp;32.5 x 12 cm; 12 3/4 x 4 3/4 in",
     "material": "Palm fiber;seeds;possibly gum resin;shell;ocelot teeth",
     "subject": "Palm fiber;Seeds;Possibly gum resin;Shell;Ocelot teeth;Jewelry",
@@ -641,6 +694,7 @@ layout: none
   {
     "pid": "2007.5116",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The multistrand necklace of beads is joined to a single strand of palm fiber cord that ties in the back. Most of the strands are single colors: dark blue, light blue, orange, and black. Two of the strands have two colors: light blue and yellow or dark green and translucent blue.&nbsp;Late 1800s-2002.&nbsp;31 x 10 cm; 12 3/16 x 3 7/8 in",
     "material": "Palm fiber;beads",
     "subject": "Palm fiber;Beads;Jewelry",
@@ -653,6 +707,7 @@ layout: none
   {
     "pid": "2007.5117",
     "label": "Rattle",
+    "type": "Musical instrument",
     "description": "Four loops of plant fiber cord are strung with brown seed shells. There is a plant fiber string to hang the rattle. It was intended to be hung on the hammock of an infant.&nbsp;Late 1800s-2002.&nbsp;32 x 12 cm; 12 5/8 x 4 3/4 in",
     "material": "seeds;plant fiber",
     "subject": "Seeds;Plant fiber;Musical instruments",
@@ -665,6 +720,7 @@ layout: none
   {
     "pid": "2007.5118",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber has five large black seeds and one very large round brown seed.&nbsp;Late 1800s-1996.&nbsp;25 x 9 cm; 9 13/16 x 3 1/2 in",
     "material": "seeds;plant fiber",
     "subject": "Seeds;Plant fiber;Jewelry",
@@ -677,6 +733,7 @@ layout: none
   {
     "pid": "2007.5119",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The multiple strands of beads and seeds are joined to a single strand of twisted plant fiber to tie. There are strands of beads in light blue, yellow, red and colorless beads. There are strands of small brown seeds with beads and the longest strand has small brown seeds, separated by beads with teeth along the front segment.&nbsp;Late 1800s-1996.&nbsp;26 x 29 cm; 10 1/4 x 11 3/8 in",
     "material": "beads;seeds;monkey teeth;plant fiber",
     "subject": "Beads;Seeds;Monkey teeth;Plant fiber;Jewelry",
@@ -687,20 +744,22 @@ layout: none
     "lunr_id": 56
   },
   {
-    "pid": "2007.512",
+    "pid": "2007.5120",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber string has small dark brown seeds at the front. Some are separated by red beads and one white bead.&nbsp;Late 1800s-1996.&nbsp;34 x 6 cm; 13 3/8 x 2 3/8 in",
     "material": "plant fiber;seeds;beads",
     "subject": "Plant fiber;Seeds;Beads;Jewelry",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5120/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.512",
+    "permalink": "/urarina/2007.5120",
     "lunr_id": 57
   },
   {
     "pid": "2007.5121",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand necklace has small brown seeds with white or red beads between them. There is a large snail shell at the front center and small teeth on either side. It is strung on plant fiber.&nbsp;Late 1800s-1996.&nbsp;36 x 4.5 cm; 14 1/8 x 1 3/4 in",
     "material": "plant fiber;beads;monkey teeth;shell;seeds",
     "subject": "Plant fiber;Beads;Monkey teeth;Shell;Seeds;Jewelry",
@@ -713,6 +772,7 @@ layout: none
   {
     "pid": "2007.5122",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber has three spiral shells, a brown seed and a large pointed tooth.&nbsp;Late 1800s-2002.&nbsp;31 x 12 cm; 12 3/16 x 4 3/4 in",
     "material": "shell;collared peccary tooth;seeds;Palm fiber",
     "subject": "Shell;Collared peccary tooth;Seeds;Palm fiber;Jewelry",
@@ -725,6 +785,7 @@ layout: none
   {
     "pid": "2007.5123",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber has a cluster of large spiral shells and pointed brown nut shells at the front.&nbsp;Late 1800s-2002.&nbsp;39 x 11.5 cm; 15 3/8 x 4 1/2 in",
     "material": "plant fiber;shell;seeds",
     "subject": "Plant fiber;Shell;Seeds;Jewelry",
@@ -737,6 +798,7 @@ layout: none
   {
     "pid": "2007.5124",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber is strung with red beads and large spiral shells at the front. There are small brown seeds (round and pointed) and small teeth interspersed with red beads.&nbsp;Late 1800s-1996.&nbsp;31 x 14 cm; 12 3/16 x 5 1/2 in",
     "material": "plant fiber;beads;monkey teeth;shell;seeds",
     "subject": "Plant fiber;Beads;Monkey teeth;Shell;Seeds;Jewelry",
@@ -749,6 +811,7 @@ layout: none
   {
     "pid": "2007.5125",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber is strung with light colored seeds and brown-red seeds which mostly alternate. The pendant at the front is a large dark brown clay and a portion of a large black insect.&nbsp;Late 1800s-2002.&nbsp;36 x 6 cm; 14 1/8 x 2 3/8 in",
     "material": "Palm fiber;seeds;gladiator beetle;anteater claw",
     "subject": "Palm fiber;Seeds;Gladiator beetle;Anteater claw;Jewelry",
@@ -761,9 +824,10 @@ layout: none
   {
     "pid": "2007.5126",
     "label": "Necklace",
-    "description": "The five strands of dark brown seeds are strung on twisted plant fiber which comes together for a single twisted plant fiber tie. Most of the seeds are small and round. Some seeds on the botom strand are larger. Late 1800s-2002.&nbsp;30 x 12 cm; 11 3/4 x 4 3/4 in",
-    "material": "Palm fiber;seeds",
-    "subject": "Palm fiber;Seeds;Jewelry",
+    "type": null,
+    "description": null,
+    "material": null,
+    "subject": null,
     "collection": "urarina",
     "thumbnail": "img/derivatives/simple/2007.5126/thumbnail.jpg",
     "content": " ",
@@ -773,6 +837,7 @@ layout: none
   {
     "pid": "2007.5127",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber has round red and black seeds interspersed with segments of pink, yellow and red beads. Late 1800s-2002.&nbsp;31 x 5 cm; 12 3/16 x 1 15/16 in",
     "material": "plant fiber;beads;seeds",
     "subject": "Plant fiber;Beads;Seeds;Jewelry",
@@ -785,6 +850,7 @@ layout: none
   {
     "pid": "2007.5128",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of small brown seeds is interspersed with segments of red or white beads. There are small teeth at one end of the necklace. It is strung on twisted plant fiber.&nbsp;Late 1800s-1996.&nbsp;36 x 7 cm; 14 1/8 x 2 3/4 in",
     "material": "beads;seeds;possibly ocelot teeth;possibly monkey teeth;plant fiber",
     "subject": "Beads;Seeds;Possibly ocelot teeth;Possibly monkey teeth;Plant fiber;Jewelry",
@@ -797,6 +863,7 @@ layout: none
   {
     "pid": "2007.5129",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The length of blue cloth is folded over and teeth of graduated size are sewn into most of the length. The ends are left free to tie. It is a choker.&nbsp;Late 1800s-2007.&nbsp;39 x 4 cm; 15 3/8 x 1 9/16 in",
     "material": "Cloth;monkey teeth;thread",
     "subject": "Cloth;Monkey teeth;Thread;Jewelry",
@@ -807,23 +874,25 @@ layout: none
     "lunr_id": 66
   },
   {
-    "pid": "2007.513",
-    "label": "Necklace",
-    "description": "The length of unbleached cloth is folded over and stitched closed. Teeth of graduated size are sewn into the cloth. The ends of the necklace are left free to tie.&nbsp;Late 1800s-2007.&nbsp;62 x 5 cm; 24 3/8 x 1 15/16 in",
-    "material": "Cloth;thread;monkey teeth;possibly ocelot teeth",
-    "subject": "Cloth;Thread;Monkey teeth;Possibly ocelot teeth;Jewelry",
+    "pid": "2007.5130",
+    "label": null,
+    "type": "Jewelry",
+    "description": null,
+    "material": null,
+    "subject": null,
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5130/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.513",
+    "permalink": "/urarina/2007.5130",
     "lunr_id": 67
   },
   {
     "pid": "2007.5131",
-    "label": "Necklace",
-    "description": "The length of unbleached cloth is stitched to dark blue cloth, folded and stitched. Teeth of graduated size are sewn into one side. The ends are left free to tie.&nbsp;Late 1800s-2007.&nbsp;51 x 4 cm; 20 1/16 x 1 9/16 in",
-    "material": "Cloth;thread;monkey teeth;possibly ocelot teeth",
-    "subject": "Cloth;Thread;Monkey teeth;Possibly ocelot teeth;Jewelry",
+    "label": null,
+    "type": "Jewelry",
+    "description": null,
+    "material": null,
+    "subject": null,
     "collection": "urarina",
     "thumbnail": "img/derivatives/simple/2007.5131/thumbnail.jpg",
     "content": " ",
@@ -833,6 +902,7 @@ layout: none
   {
     "pid": "2007.5132",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of red and black seeds are strung on twisted plant fiber.&nbsp;Late 1800s-2007.&nbsp;42 x 6 cm; 16 1/2 x 2 3/8 in",
     "material": "Palm fiber;seeds",
     "subject": "Palm fiber;Seeds;Jewelry",
@@ -845,6 +915,7 @@ layout: none
   {
     "pid": "2007.5133",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand necklace has pink beads on one half and white beads on the other, interspersed with small brown seeds and teeth.&nbsp;Late 1800s-1996.&nbsp;33 x 10 cm; 13 x 3 7/8 in",
     "material": "possibly ocelot teeth;possibly monkey teeth;beads;seeds;plant fiber",
     "subject": "Possibly ocelot teeth;Possibly monkey teeth;Beads;Seeds;Plant fiber;Jewelry",
@@ -857,6 +928,7 @@ layout: none
   {
     "pid": "2007.5134",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of pink beads is strung on plant fiber. Small brown seeds are interspersed for much of the length and teeth are interspersed at the front.&nbsp;Late 1800s-1996.&nbsp;37 x 8 cm; 14 9/16 x 3 1/8 in",
     "material": "beads;seeds;possibly ocelot teeth;possibly monkey teeth;plant fiber",
     "subject": "Beads;Seeds;Possibly ocelot teeth;Possibly monkey teeth;Plant fiber;Jewelry",
@@ -869,6 +941,7 @@ layout: none
   {
     "pid": "2007.5135",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The necklace has multiple strands of orange beads that join to a single twisted fiber plant tie on either end. The beads on the shorter strands are interspersed with small seeds and teeth on the lower strands.&nbsp;Late 1800s-1996.&nbsp;36 x 20 cm; 14 1/8 x 7 7/8 in",
     "material": "plant fiber;beads;seeds;monkey teeth",
     "subject": "Plant fiber;Beads;Seeds;Monkey teeth;Jewelry",
@@ -881,6 +954,7 @@ layout: none
   {
     "pid": "2007.5136",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of beads is interspersed with small brown seeds. The segments of the necklace have beads in dark blue, white and pink.&nbsp;Late 1800s-2007.&nbsp;33 x 7 cm; 13 x 2 3/4 in",
     "material": "plant fiber;piri-piri seeds;beads",
     "subject": "Plant fiber;Piri-piri seeds;Beads;Jewelry",
@@ -893,6 +967,7 @@ layout: none
   {
     "pid": "2007.5137",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The multiple strands of red beads are strung on plant fiber and come together to a single plant fiber tie at either end. Three strands are beads only and two strands are beads interspersed with teeth.&nbsp;Late 1800s-2007.&nbsp;24 x 18 cm; 9 7/16 x 7 1/16 in",
     "material": "possibly ocelot teeth;possibly monkey teeth;Cloth;Palm fiber;beads",
     "subject": "Possibly ocelot teeth;Possibly monkey teeth;Cloth;Palm fiber;Beads;Jewelry",
@@ -905,6 +980,7 @@ layout: none
   {
     "pid": "2007.5138",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand of twisted plant fiber has pointed brown seeds at the front, with segments of beads between. It has beads in light blue, yellow, red and dark blue. There is one larger white plastic piece.&nbsp;Late 1800s-1996.&nbsp;40 x 13 cm; 15 3/4 x 5 1/8 in",
     "material": "plant fiber;seeds;beads;plastic",
     "subject": "Plant fiber;Seeds;Beads;Plastic;Jewelry",
@@ -917,6 +993,7 @@ layout: none
   {
     "pid": "2007.5139",
     "label": "Necklace",
+    "type": "Jewelry",
     "description": "The single strand necklace has three large spiral shells at the front. There are mostly white beads on the strand, interspersed with small brown seeds and teeth. There is a short segment of pink and another of light blue beads with other colors (yellow, orange, and green) sprinkled in. It is currently broken.&nbsp;Late 1800s-1996.&nbsp;56 x 8 cm; 22 1/16 x 3 1/8 in",
     "material": "plant fiber;beads;shell;seeds;monkey teeth",
     "subject": "Plant fiber;Beads;Shell;Seeds;Monkey teeth;Jewelry",
@@ -927,20 +1004,22 @@ layout: none
     "lunr_id": 76
   },
   {
-    "pid": "2007.514",
+    "pid": "2007.5140",
     "label": "Shoulder Bag",
+    "type": "Clothing accessory",
     "description": "The small bag is woven from plant fiber with a long thin strap. The bag has horizontal stripes in light natural and brown. The strap is light natural. Late 1800s-1996.&nbsp;65 x 12.5 cm; 25 9/16 x 4 7/8 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Clothing accessory",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5140/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.514",
+    "permalink": "/urarina/2007.5140",
     "lunr_id": 77
   },
   {
     "pid": "2007.5141",
     "label": "Bag",
+    "type": "Container",
     "description": "The rectangular bag is open on the short side, with a long strap. A dark brown stripe is flanked by brown with a natural colored stripe between each brown stripe. The strap has brown and light natural stripes.&nbsp;Late 1800s-1996.&nbsp;62.5 x 21 cm; 24 5/8 x 8 1/4 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Container",
@@ -953,6 +1032,7 @@ layout: none
   {
     "pid": "2007.5142",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The rectangular bag is open on the short side. The light natural colored bag has horizontal brown stripes flanked by dark brown. The light natural colored handle has an open weave.&nbsp;Late 1800s-1996.&nbsp;70 x 24 cm; 27 1/2 x 9 7/16 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Clothing accessory",
@@ -965,6 +1045,7 @@ layout: none
   {
     "pid": "2007.5143",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The nearly square bag has a strap. The bag has horizontal stripes in light natural, brown and dark brown. The strap is a light natural color with an open weave.&nbsp;Late 1800s-1996.&nbsp;71 x 36 cm; 27 15/16 x 14 1/8 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Clothing accessory",
@@ -977,6 +1058,7 @@ layout: none
   {
     "pid": "2007.5144",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The nearly square bag has a strap. The strap and bag have the same weave. The bag has horizontal brown stripes, flanked by dark brown and separated by light natural stripes. The strap is light natural. Late 1800s-1996.&nbsp;77 x 37 cm; 30 5/16 x 14 9/16 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Clothing accessory",
@@ -989,6 +1071,7 @@ layout: none
   {
     "pid": "2007.5145",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The large rectangular bag has a strap. There are two wide stripes of dark brown with orange and brown between with a light natural field and strap. The strap is knotted.&nbsp;Late 1800s-1996.&nbsp;73 x 56 cm; 28 3/4 x 22 1/16 in",
     "material": "plant fiber;weaving;dyeing",
     "subject": "Plant fiber;Weaving;Dyeing;Clothing accessory",
@@ -1001,6 +1084,7 @@ layout: none
   {
     "pid": "2007.5146",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The small square woven bag has a strap. The bag has horizontal stripes in red, green, dark blue, bright pink and orange. The strap is a looser weave, and has blocks of yellow, bright pink and red. Late 1800s-1996.&nbsp;37 x 19 cm; 14 9/16 x 7 1/2 in",
     "material": "string;weaving;dyeing",
     "subject": "String;Weaving;Dyeing;Clothing accessory",
@@ -1013,6 +1097,7 @@ layout: none
   {
     "pid": "2007.5147",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The small woven bag has a strap. The bag has yellow and orange stripes with a light blue bottom. It has a red strap with a bit of light blue at the top. Late 1800s-1996.&nbsp;45 x 18 cm; 17 11/16 x 7 1/16 in",
     "material": "string;weaving;dyeing",
     "subject": "String;Weaving;Dyeing;Clothing accessory",
@@ -1025,6 +1110,7 @@ layout: none
   {
     "pid": "2007.5155",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The square woven bag has a handle. The bag is a light natural color with two yellow stripes and one brown stripe.&nbsp;Late 1800s-1996.&nbsp;69 x 34 cm; 27 1/8 x 13 3/8 in",
     "material": "Possibly palm fiber;weaving;dyeing",
     "subject": "Possibly palm fiber;Weaving;Dyeing;Clothing accessory",
@@ -1037,6 +1123,7 @@ layout: none
   {
     "pid": "2007.5156",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The rectangular bag is open on the short end. It has horizontal blue and pink stripes. Half of the handle is pink and most of the remaining half is blue but the portion adjacent to the bag is dark red, blue, green and pink. Late 1800s-1996.&nbsp;69 x 30 cm; 27 1/8 x 11 3/4 in",
     "material": "yarn;weaving;dyeing",
     "subject": "Yarn;Weaving;Dyeing;Clothing accessory",
@@ -1049,6 +1136,7 @@ layout: none
   {
     "pid": "2007.5157",
     "label": "Bag",
+    "type": "Clothing accessory",
     "description": "The trapezoidal bag has a light natural colored open weave handle. The bag has horizontal stripes in red, bright pink, dark yellow, orange, black, green, dark blue and dark green. Late 1800s-1996.&nbsp;76 x 39 cm; 29 7/8 x 15 3/8 in",
     "material": "yarn;weaving;dyeing",
     "subject": "Plant fiber;Yarn;Weaving;Dyeing;Clothing accessory",
@@ -1061,6 +1149,7 @@ layout: none
   {
     "pid": "2007.5159",
     "label": "Doll",
+    "type": "Sculpture",
     "description": "The very roughly carved human figure has a stub-like suggestion of arms and widely spaced legs. There are no facial features or other decoration. It is made of light natural wood. Late 1800s-1996.&nbsp;21 x 7.5 x 4 cm; 8 1/4 x 2 15/16 x 1 9/16 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Sculpture",
@@ -1071,20 +1160,22 @@ layout: none
     "lunr_id": 88
   },
   {
-    "pid": "2007.516",
+    "pid": "2007.5160",
     "label": "Doll",
+    "type": "Sculpture",
     "description": "The very roughly carved human figure has a stub-like suggestion of arms and widely spaced legs. There are no facial features or other decoration. It is made of light natural wood. Late 1800s-1996.&nbsp;33 x 7 x 4.5 cm; 13 x 2 3/4 x 1 3/4 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Sculpture",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5160/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.516",
+    "permalink": "/urarina/2007.5160",
     "lunr_id": 89
   },
   {
     "pid": "2007.5161",
     "label": "Doll",
+    "type": "Sculpture",
     "description": "The very roughly carved human figure has a stub-like suggestion of arms and widely spaced legs. There are no facial features or other decoration. It is a light natural colored wood. Late 1800s-1996.&nbsp;22.5 x 6 x 3.5 cm; 8 7/8 x 2 3/8 x 1 3/8 in",
     "material": "wood;carving",
     "subject": "Wood;Carving;Sculpture",
@@ -1097,6 +1188,7 @@ layout: none
   {
     "pid": "2007.5162",
     "label": "Doll",
+    "type": "Sculpture",
     "description": "The very roughly carved human figure has a stub-like suggestion of arms and widely spaced legs. There are no facial features. There are two strips of frog skin wrapped around string and tied around neck. It is a light natural colored wood. Late 1800s-1996.&nbsp;11.5 x 3.5 x 2.5 cm; 4 1/2 x 1 3/8 x 1 in",
     "material": "wood;frog skin;string;carving",
     "subject": "Wood;Frog skin;String;Carving;Sculpture",
@@ -1109,6 +1201,7 @@ layout: none
   {
     "pid": "2007.5163",
     "label": "Drum",
+    "type": "Musical instrument",
     "description": "The cylindrical drum has wooden sides and a peccary skin head on one end that is light colored with small dots. There is a hide of an unknown animal on the other end. Both heads are stretched and held in place with dark brown plant fiber rings. Strings of twisted plant fiber span the distance between the plant fiber rings. There is a strap of twisted plant fiber string tied at the middle of the drum.&nbsp;Circa 1991.&nbsp;20.5 x 25 cm; 8 1/16 x 9 13/16 in",
     "material": "wood;plant fiber;peccary skin;possibly hide",
     "subject": "Wood;Plant fiber;Peccary skin;Possibly hide;Musical instruments",
@@ -1121,6 +1214,7 @@ layout: none
   {
     "pid": "2007.5164",
     "label": "Fan",
+    "type": "Clothing accessory",
     "description": "The five fan elements are possibly individual pieces, tied together with a plant fiber string. Each element has two clusters of dark grey feathers tied at either end of two sticks. Late 1800s-1996.&nbsp;29 x 13 x 6.5 cm; 11 3/8 x 5 1/8 x 2 1/2 in",
     "material": "Slate-colored hawk feathers;wood;plant fiber",
     "subject": "Slate-colored hawk feathers;Wood;Plant fiber;Clothing accessory",
@@ -1133,6 +1227,7 @@ layout: none
   {
     "pid": "2007.5165",
     "label": "Small Basket with Handle",
+    "type": "Container",
     "description": "The small round basket has a flat bottom and sides that taper toward the top. They are light natural color with three dark yellow bands. Another dark yellow band is on the bottom. It has a thin braided handle. Late 1800s-1996.&nbsp;7 x 13 cm; 2 3/4 x 5 1/8 in",
     "material": "plant fiber;weaving;possibly dyeing;braiding",
     "subject": "Plant fiber;Weaving;Possibly dyeing;Braiding;Container",
@@ -1145,11 +1240,12 @@ layout: none
   {
     "pid": "2007.5166",
     "label": "Baby's Hammock",
+    "type": "Furniture and furnishings",
     "description": "The small hammock is for a baby. It has a wooden rod at either end with twisted plant fiber strings netted between. Most of the hammock is light natural colored but there are two stripes of dark brown, brown, and dark brown. There are two clusters of round dark brown seeds at one end and two pieces of bone (peccary scapulae) hang off one side. It has braided strings to tie the hammock to support.&nbsp;Late 1800s-2007.&nbsp;76 x 34 cm; 29 7/8 x 13 3/8 in",
     "material": "plant fiber;peccary bone;seeds;wood;netting;braiding",
     "subject": "Plant fiber;Peccary bone;Seeds;Wood;Netting;Braiding;Furniture and furnishings",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5166/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.5166",
     "lunr_id": 95
@@ -1157,11 +1253,12 @@ layout: none
   {
     "pid": "2007.5167",
     "label": "Hammock",
+    "type": "Furniture and furnishings",
     "description": "The hammock is made of netted strings of twisted plant fibers. It is light natural with stripes of light brown and grey. The support ropes are grey and fuzzy. The hammock is currently bundled with support ropes tied around the bundle to secure it.&nbsp;Late 1800s-1996.&nbsp;42 x 30 x 19 cm bundled; 16 1/2 x 11 3/4 x 7 1/2 in bundled",
-    "material": "plant fiber;netting;possibly dyeing",
+    "material": null,
     "subject": "Plant fiber;Netting;Possibly dyeing;Furniture and furnishings",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5167/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.5167",
     "lunr_id": 96
@@ -1169,6 +1266,7 @@ layout: none
   {
     "pid": "2007.5168",
     "label": "Mask",
+    "type": "Masks",
     "description": "The mask is made from corrugated board. It is currently flattened, so the original shape is unknown. It has large ears at the sides of the top that are black with panels of cayman skin. The painted face has cartoon-like eyes and a crab carapace for a nose held on with red plastic string. There are panels of cayman skin at the upper facing left corner of the face and the facing right side of the face. The rectangular corrugated panels on either side of the bottom are painted black. It was intended to be worn during a carnival.&nbsp;Late 1800s-1996.&nbsp;54.5 x 45 x 12 cm; 21 7/16 x 17 11/16 x 4 3/4 in",
     "material": "Cardboard;crab shell;cayman skin;paint;pigment;plastic string;cotton string",
     "subject": "Cardboard;Crab shell;Cayman skin;Paint;Pigment;Plastic string;Cotton string;Masks",
@@ -1181,30 +1279,33 @@ layout: none
   {
     "pid": "2007.5169",
     "label": "Hammock",
+    "type": "Furniture and furnishings",
     "description": "The hammock was made from twisted strings of light natural colored plant fibers. It has longitudinal stripes of brown and dark brown. Each end of the hammock has a wrapped segment for hanging.&nbsp;Late 1800s-1996.&nbsp;Approximately 252 x 90 cm; approximately 99 3/16 x 35 3/8 in",
     "material": "plant fiber;netting;dyeing",
     "subject": "Plant fiber;Netting;Dyeing;Furniture and furnishings",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5169/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.5169",
     "lunr_id": 98
   },
   {
-    "pid": "2007.517",
+    "pid": "2007.5170",
     "label": "Large Basket with Strap",
+    "type": "Container",
     "description": "The large basket has a square bottom and a round rim. It is dark brown. A strip of plant fiber is tied to the rim at two points on one side to act as a strap.&nbsp;Late 1900s-2007.&nbsp;43 x 47.5 x 44 cm; 16 7/8 x 18 11/16 x 17 5/16 in",
     "material": "plant fiber;weaving",
     "subject": "Plant fiber;Weaving;Container",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5170/thumbnail.jpg",
     "content": " ",
-    "permalink": "/urarina/2007.517",
+    "permalink": "/urarina/2007.5170",
     "lunr_id": 99
   },
   {
     "pid": "2007.5171",
     "label": "Broom",
+    "type": "Tools",
     "description": "The broom has a straight wooden handle. The bristle portion has a woven band at the top and the fibers are split to make bristles. The bristles are bound together with a band of yellow wire and a second band of green string.&nbsp;Late 1800s-2007.&nbsp;143 x 28 x 12 cm; 56 1/4 x 11 x 4 3/4 in",
     "material": "wood;plant fiber;wire;string;iron;weaving",
     "subject": "Wood;Plant fiber;Wire;String;Iron;Weaving;Tools",
@@ -1217,6 +1318,7 @@ layout: none
   {
     "pid": "2007.5172",
     "label": "Blowgun",
+    "type": "Animal procurement equipment",
     "description": "The long wooden tube has a red plastic band at one end for a mouthpiece. The remainder of the tube is covered with black resin. There is a resin knob near the mouthpiece end.&nbsp;Late 1800s-2007.&nbsp;135.5 x 3 x 4.5 cm; 53 3/8 x 1 1/8 x 1 3/4 in",
     "material": "wood;plastic;gum resin",
     "subject": "Wood;Plastic;Gum resin;Animal procurement equipment",
@@ -1229,6 +1331,7 @@ layout: none
   {
     "pid": "2007.5173",
     "label": "Spear",
+    "type": "Animal procurement equipment",
     "description": "The spear has three tines. The long portion of the handle is bamboo. The small bit of shaft adjacent to the metal portion is wood. The metal end has three small tines, each with a point and small barbs. Separate elements are joined with the black resin.&nbsp;Late 1800s-1996.&nbsp;208.5 x 3 x 2 cm; 82 1/16 x 1 1/8 x 3/4 in",
     "material": "Bamboo;wood;metal;gum resin",
     "subject": "Bamboo;Wood;Metal;Gum resin;Animal procurement equipment",
@@ -1241,11 +1344,12 @@ layout: none
   {
     "pid": "2007.5174",
     "label": "Loom",
+    "type": "Furniture and furnishings",
     "description": "The loom contains a partially woven mat. The mat is light natural with vertical red stripes and thin brown stripes on each red. The unwoven plant fibers are the same color. There are multiple pieces of the loom consisting of: 2007.5175.a is the flat wooden board with a partially woven mat and all of the unwoven plant fiber. The length of wood has a notch at either end. 2007.5175.b is a large, long piece of wood, round in cross section with a groove at each end. I think there is a twisted plant fiber cord tied round each end. 2007.5175.c is a flat piece of wood with a straight edge and an arched edge. It is dark brown. 2007.5175.d is a long piece of wood with a triangular cross section. It is light brown. 2007.5175.e,f are two very dark brown sticks of a relatively small diameter.&nbsp;Late 1800s-1996. a x 91.5 cm; a x 36 in; b 128 x 13 cm; b 50 3/8 x 5 1/8 in; c 106.5 x 10.5 cm; c 41 7/8 x 4 1/8 in; d 92 x 5 cm; d 36 1/4 x 1 15/16 in; e 89 x 1.5 cm; e 35 1/16 x 9/16 in; f 66 x 1.5 cm; f 26 x 9/16 in",
     "material": "wood;plant fiber;weaving;dyeing",
     "subject": "Wood;Plant fiber;Weaving;Dyeing;Furniture and furnishings",
     "collection": "urarina",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/2007.5174/thumbnail.jpg",
     "content": " ",
     "permalink": "/urarina/2007.5174",
     "lunr_id": 103
