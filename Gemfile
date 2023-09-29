@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "kramdown-parser-gfm"
-gem 'wax_tasks', '~> 1.1'
-gem 'html-proofer', '~> 3.15'
+gem "jekyll-watch"
+gem "webrick"
+gem "ffi"
 
-gem "webrick", "~> 1.8"
