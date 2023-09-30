@@ -1,11 +1,18 @@
-title: Laenanuuinelanaala jelaia Urarina kainara kuina amiianena
-subtitle: The Urarina Digital Heritage Project
+title: The Urarina Digital Heritage Project
+#Laenanuuinelanaala jelaia Urarina kainara kuina amiianena
+#subtitle: The Urarina Digital Heritage Project
 author:
   name: 
   email: 
 description:
   The Urarina Digital Heritage Project is a collaborative, international effort that makes Urarina cultural heritage items held at the University of Kansas accessible in multilingual form to the general public and to the Urarina community in the Peruvian Amazon from which they originated. 
 baseurl: "/urarina-wax"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -57,12 +64,12 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: "Welcome"
+    link: "pages/welcome.html"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
     link: "/search/"
-  - label: "How To"
-    link: "/learning/"
   - label: "About"
     sub:
       - label: "The Urarina Digital Heritage Project"
@@ -73,3 +80,5 @@ menu:
         link: "/resources/"
       - label: "Rights & Reuse"
         link: "/rights/"
+      - label: "How To"
+        link: "/learning/"
