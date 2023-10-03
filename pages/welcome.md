@@ -3,7 +3,7 @@ layout: page
 title:  Welcome to the world of the Urarina
 ---
 
-![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" }
+![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" } ![alt-text-3](assets/img/map_chambi.png "Chambira River Basin"){: width="250" }
 
 The Urarina are an indigenous people of the Amazon Basin who live in the valleys of the Chambira, Urituyacu, and Corrientes Rivers in Peru's department of Loreto. According to archaeological, historical sources, and oral accounts the Urarina have resided in the Chambira Basin of contemporary northeastern Peru for centuries. Originally, the were living in longhouses along the riversides of the Rio Chambira and its tributaries. Nowadays, most people live in smaller individual houses.
 
