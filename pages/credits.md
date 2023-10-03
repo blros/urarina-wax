@@ -19,7 +19,7 @@ The Urarina Digital Heritage Project is an international collaborative effort in
 * Daniel Nuribe Arahuata. Teacher
 
 ## Spencer Museum of Art, University of Kansas
-* __Angela Watts. Collection Manager
+* __Angela Watts.__ Collection Manager
 * __Celka Straughan.__ Deputy Director for Public Practice, Curatorial and Research, Andrew W. Mellon Director of Academic Programs
 
 ## Other contributors
