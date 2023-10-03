@@ -3,7 +3,7 @@ layout: page
 title: Bienvenido al mundo de los Urarina
 ---
 
-![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" }
+![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" } ![alt-text-3](assets/img/map_chambi.png "Chambira River Basin"){: width="250" }
 
 Los Urarina son un pueblo indígena de la cuenca del Amazonas que vive en los valles de los ríos Chambira, Urituyacu y Corrientes en el departamento de Loreto en Perú. Según fuentes arqueológicas, históricas y relatos orales, los Urarina han residido en la cuenca de Chambira en el noreste del Perú contemporáneo desde siglos. Originalmente vivían en casas comunales en  las orillas del río Chambira y sus afluentes. Hoy en día, la mayoría de la gente vive en casas individuales más pequeñas.
 
