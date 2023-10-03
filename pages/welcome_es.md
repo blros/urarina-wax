@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Welcome
+title: Bienvenido al mundo de los Urarina
 ---
 
 ![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" }
 
-Bienvenido al mundo de los Urarina
 Los Urarina son un pueblo indígena de la cuenca del Amazonas que vive en los valles de los ríos Chambira, Urituyacu y Corrientes en el departamento de Loreto en Perú. Según fuentes arqueológicas, históricas y relatos orales, los Urarina han residido en la cuenca de Chambira en el noreste del Perú contemporáneo desde siglos. Originalmente vivían en casas comunales en  las orillas del río Chambira y sus afluentes. Hoy en día, la mayoría de la gente vive en casas individuales más pequeñas.
 
 El pueblo Urarina se reconoce bajo el término urarinaaürü, que significa 'pueblo'. En quechua, el término se traduce como urayruna, uray significa "abajo" y runa es el marcador plural en el idioma, por lo que el término significa "la gente de abajo, es decir, río abajo".

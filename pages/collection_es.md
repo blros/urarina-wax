@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse the Collection
+title: Explora la coleccion
 gallery: True
 #permalink: /collection/
 ---
@@ -22,7 +22,7 @@ Esta colección comprende artefactos del pueblo Urarina y forma parte del Proyec
 
 Los artefactos han sido recolectados por el Dr. Bartholomew Barth durante viajes de campo al territorio de Urarina y actualmente se encuentran en el Museo Spencer, Lawrence, Kansas.
 
-INSERTAR ENLACE HTML PARA EL MUSEO SPENCER
+Haga clic para visitar [el Museo de Arte Spencer](https://www.spencerart.ku.edu/)
 
 Eche un vistazo a los artefactos utilizados en la vida cotidiana, como accesorios de vestir, herramientas, armas, recipientes (cestas y cuencos), equipos culinarios, equipos para embarcaciones, artefactos recreativos, muebles y enseres, así como artefactos relacionados con ceremonias y tradiciones como máscaras, joyas y esculturas.
 
