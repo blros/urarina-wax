@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rights & Reuse
+title: Derechos & Reutilisación
 #permalink: /rights/
 ---
 
