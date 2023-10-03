@@ -82,3 +82,22 @@ menu:
         link: "pages/rights.html"
       - label: "How To"
         link: "pages/learning.html"
+
+plugins:
+  - jekyll-multiple-languages-plugin
+
+# Extras for multi language support
+# https://github.com/kurtsson/jekyll-multiple-languages-plugin
+languages: ["en", "es", "ur"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
+# In code, these specific files should be referenced via baseurl_root. E.g.
+# <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl_root }}"/>
+
+#If you wish to avoid having the default_lang built into the root of your website, use:
+#default_locale_in_subfolder: true
+default_locale_in_subfolder: false
+
+
+
+
