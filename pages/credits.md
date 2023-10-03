@@ -14,9 +14,9 @@ The Urarina Digital Heritage Project is an international collaborative effort in
 * __Brian Rosenblum.__ Digital Humanities Librarian, KU Libraries and Co-Director, Institute for Digital Research in the Humanities, University of Kansas [More info](https://crees.ku.edu/people/brian-rosenblum)
 
 ## Urarina Community Members
-* Gilberto Inuma Arahuata. FEPIURCHA President
-* Samuel Nuribe Arahuata. Teacher
-* Daniel Nuribe Arahuata. Teacher
+* __Gilberto Inuma Arahuata.__ President of FEPIURCHA (Federación de Pueblos Indigenas Urarinas del Rio Chambira)
+* __Samuel Nuribe Arahuata.__ Teacher
+* __Daniel Nuribe Arahuata.__ Teacher
 
 ## Spencer Museum of Art, University of Kansas
 * __Angela Watts.__ Collection Manager [More info](https://spencerart.ku.edu/node/918)
