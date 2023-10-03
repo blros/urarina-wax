@@ -19,11 +19,11 @@ The Urarina Digital Heritage Project is an international collaborative effort in
 * Daniel Nuribe Arahuata. Teacher
 
 ## Spencer Museum of Art, University of Kansas
-* __Angela Watts.__ Collection Manager
-* __Celka Straughan.__ Deputy Director for Public Practice, Curatorial and Research, Andrew W. Mellon Director of Academic Programs
+* __Angela Watts.__ Collection Manager [More info](https://spencerart.ku.edu/node/918)
+* __Celka Straughan.__ Deputy Director for Public Practice, Curatorial and Research, Andrew W. Mellon Director of Academic Programs. [More info](https://spencerart.ku.edu/node/915)
 
 ## Other contributors
-* __Michael Wynne.__ Digital Applications Librarian in the Center for Digital Scholarship and Curation (CDSC) at Washington State University.
+* __Michael Wynne.__ Digital Applications Librarian in the Center for Digital Scholarship and Curation (CDSC) at Washington State University. [More info](https://libraries.wsu.edu/blog/emp-directory/michael-wynne)
 * __Emma Bruce.__ Anthropology student (2021-22). 
 * __Carola Emkow.__ Linguist, Masters student of Latin American Studies and Indigenous Studies at the Univeristy of Kansas
 
