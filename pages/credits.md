@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-permalink: /credits/
+#permalink: /credits/
 ---
 
 

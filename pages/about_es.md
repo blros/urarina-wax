@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+#permalink: /about/
 ---
 
 # Sobre el Proyecto Patrimonio Digital Urarina

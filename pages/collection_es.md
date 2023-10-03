@@ -2,7 +2,7 @@
 layout: page
 title: Browse the Collection
 gallery: True
-permalink: /collection/
+#permalink: /collection/
 ---
 
 # Sobre el Proyecto Patrimonio Digital Urarina

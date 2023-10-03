@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rights & Reuse
-permalink: /rights/
+#permalink: /rights/
 ---
 
 ### Traditional Knowledge (TK) Labels

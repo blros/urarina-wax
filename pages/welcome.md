@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
---
+---
 
 ![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" }
 
