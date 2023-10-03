@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Urarina people recognize themselves under the term _Urarinaaürü_, which means 'people'. They live in Peru’s Amazonian department of Loreto. Peru’s Ministry of Culture calculates the population of the Urarina at 5,802 people. Urarina society has been shaped by long-term entanglement with missionaries, colonial administrators, and traders, as well as with agents of the “singular” Peruvian nation to which the state gave birth. Following centuries of colonial rule, a pattern of skewed development emerged in Peruvian Amazonia that effectively blocked Indigenous people like the Urarina from full participation in the Peruvian nation-state.
-
-## ![Urarina teritory](/urarina-wax/img/map_ura.png){:class="img-responsive"} ##
+# About the Urarina Digital Heritage Project
 
 Fusing public anthropology with digital humanities, the Urarina Digital Heritage Project will make use of Indigenous information management systems and cultural protocols to create a digital collection of Urarina cultural heritage and explore issues related to Indigenous digital archives. Working in collaboration with Urarina cultural specialists, the project is dedicated to decolonizing archival practices and modes of access through recognition of Indigenous sensibilities, knowledge practices, and interdictions for the curation of cultural materials—tangible and otherwise. Partnering with scholars and nonacademic members in the United States and Peru, our work aims to facilitate digital spaces for the Urarina communities to maintain, access, narrate, and exchange their digital history and heritage in culturally relevant and ethical ways.
 
