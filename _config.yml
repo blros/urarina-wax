@@ -28,9 +28,9 @@ collections:
     output: false
   urarina: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "urarina_item" # the layout for the pages to use
+    layout: "urarina_item_tab" # the layout for the pages to use
     metadata:
-      source: "urarina-metadata-wax.csv" # path to the metadata file within `_data`
+      source: "urarina-metadata-wax_tab.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/urarina" # path to the directory of images within `_data`
 
