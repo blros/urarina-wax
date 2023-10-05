@@ -1,17 +1,4 @@
 
-<!-- Allen is a non-empty value -->
-
-<ul id="menu">
-    <li><a href="#tab3">Urarina</a></li>
-    <li><a href="#tab2">Spanish</a></li>
-    <li><a href="#tab1">English</a></li>
-</ul>
-    <div class="tab-folder">
-    <div id="tab3" class="tab-content">{{ page.description-ura }}</div>
-    <div id="tab2" class="tab-content">{{ page.description-es }}</div>
-    <div id="tab1" class="tab-content">{{ page.description }}</div>
-</div>
-
 
 <dl class='metadata-block w-100'>
   {% for item in include.meta %}
@@ -22,7 +9,6 @@
       {% assign value = item.value %}
     {% endif %}
 
-<!-- Carola display non-empty values -->
     {% if value | strip != '' %}
       {% if item.type == 'link' %}
         {% if key == 'manifest' %}

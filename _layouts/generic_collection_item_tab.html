@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_tab
 ---
 
 {% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
@@ -19,16 +19,18 @@ layout: default
   {% assign prev = link %}
 {% endfor %}
 
+
 <div class="row">
-  <div class="pagination mx-auto">
-    <div class='pagination-link' id='prevlink'><a href='{{ prevlink | absolute_url }}' >&#9668;</a></div>
-    <div class='pagination-link' id='nextlink'><a href='{{ nextlink | absolute_url }}' >&#9658;</a></div>  </div>
+<div class="col-md-8">	
+
+<div class="row">
+  <section id="Description">
+     {% include item_description_tab.html meta=metadata desc=metadata %}
+  </section>
 </div>
 
-
-<div class='row card thumbnail-card'>
-
-
+<div class="row">
+ 
 <!-- The block below controls the image viewer -->
 
   {% if page.image_viewer %}
@@ -47,11 +49,22 @@ layout: default
         </div>
   {% endif %}
 
-  <div class="card-body item-metadata">
+</div>
+</div>
 
+<div class="col-md-4 center-block my-top">  
+<div class="row">
+  <div class="pagination mx-auto">
+    <div class='pagination-link' id='prevlink'><a href='{{ prevlink | absolute_url }}' >&#9668;</a></div>
+    <div class='pagination-link' id='nextlink'><a href='{{ nextlink | absolute_url }}' >&#9658;</a></div> 
+  </div>
+</div>
+
+<div class="row">
 <!-- The block below controls the item metadata table -->
 
-    <h1 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h1>
+    <h1 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h1><br>
+    </div>
     <div class="row">
       {% if layout.meta.size %}
         {% assign metadata = layout.meta %}
@@ -61,6 +74,12 @@ layout: default
       {% if metadata.size %}
         {% include item_metadata_tab.html meta=metadata desc=metadata %}
       {% endif %}
+
     </div>
   </div>
+
+<div class="row">
+  <div class="col-md-8"><p></div>
+</div>
+</div>
 </div>
