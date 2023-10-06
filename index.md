@@ -7,9 +7,8 @@ title: Index
 
 ![alt-text-1](assets/logo/Urarina-logo-with-text4.png "Urarina logo"){: width="250" style="float: left"} 
 
-"The study of the past is more than the study of ancient people, artefacts, events and processes.
+> "The study of the past is more than the study of ancient people, artefacts, events and processes.
 At a broader behavioural level it is about the relationship between people, material objects, processes, and space or place.
-
 (Papadopoulos & Urton (2012), The construction of value in the ancient past)”
 
 This pilot project has been supported by the [Center for Latin American and Caribbean Studies](https://clacs.ku.edu/) at the University of Kansas.
