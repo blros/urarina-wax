@@ -10,7 +10,8 @@ layout: page
 &nbsp;
 &nbsp;
 
-<span style="font-family:Papyrus; flow:right"> "The study of the past is more than the study of ancient people, artefacts, events and processes. At a broader behavioural level it is about the relationship between people, material objects, processes, and space or place. (Papadopoulos & Urton (2012), The construction of value in the ancient past)”    </span>
+<span style="font-family:Papyrus; font-style: italic; flow:right"> "The study of the past is more than the study of ancient people, artefacts, events and processes. At a broader behavioural level it is about the relationship between people, material objects, processes, and space or place."  </span>  
+ -- (Papadopoulos & Urton (2012), The construction of value in the ancient past).
 &nbsp;
 
 ---
