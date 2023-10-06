@@ -12,4 +12,4 @@ At a broader behavioural level it is about the relationship between people, mate
 
 (Papadopoulos & Urton (2012), The construction of value in the ancient past)”
 
-This pilot project has been supported by the Center for Latin American and Caribbean Studies at the University of Kansas.
+This pilot project has been supported by the [Center for Latin American and Caribbean Studies](https://clacs.ku.edu/) at the University of Kansas.
