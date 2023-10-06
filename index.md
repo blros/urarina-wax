@@ -19,7 +19,11 @@ layout: page
   
 This project supports the  effort of the Urarina people to preserve their cultural heritage and knowledge. It is is committed to decolonization in digital knowledge production.
 
+More information on decolonized digital knowledge production can be found here.
+
 More information about the Urarina Heritage Project can be found here.
+
+
 
 
 
