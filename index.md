@@ -19,13 +19,9 @@ layout: page
   
 This project supports the  effort of the Urarina people to preserve their cultural heritage and knowledge. It is is committed to decolonization in digital knowledge production.
 
-More information on decolonized digital knowledge production can be found here.
+More information on decolonized digital knowledge production will be coming soon.
 
-More information about the Urarina Heritage Project can be found here.
-
-
-
-
+More information about the Urarina Heritage Project can be found [here](pages/about.html).
 
 This pilot project has been supported by the [Center for Latin American and Caribbean Studies](https://clacs.ku.edu/) at the University of Kansas.
 

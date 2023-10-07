@@ -3,13 +3,33 @@ layout: page
 title:  Welcome to the world of the Urarina
 ---
 
-![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" } ![alt-text-3](assets/img/map_chambi.png "Chambira River Basin"){: width="250" }
+[![Urarina Territory Picture][5]{: width='800'}][6]
+
+   [5]:  assets/img/panoramio_3.jpg
+   [6]:  assets/img/panoramio_2.jpg "Urarina Picture"
+
+<br clear="left"/>
 
 The Urarina are an indigenous people of the Amazon Basin who live in the valleys of the Chambira, Urituyacu, and Corrientes Rivers in Peru's department of Loreto. According to archaeological, historical sources, and oral accounts the Urarina have resided in the Chambira Basin of contemporary northeastern Peru for centuries. Originally, the were living in longhouses along the riversides of the Rio Chambira and its tributaries. Nowadays, most people live in smaller individual houses.
 
+<br clear="left"/>
+
+[![Urarina Territory Map][1]{: width='300' align='left' }][2]
+
+   [1]:  assets/img/map_ura.png
+   [2]:  assets/img/map_ura.png "Urarina teritory"
+
+<span flow="right">
 The Urarina people recognize themselves under the term _urarinaaürü_, which means 'people'. In Quechua, the term is rendered as  _urayruna_, _uray_ meaning 'below', and  _runa_ being the plural marker in the language, thus the term meaning 'the people from below, i.e., downstream'.
 
  Peru’s Ministry of Culture calculates the population of the Urarina at 5,802 people. Most Urarina follow a semi-mobile lifestyle subsisting on hunting, fishing, and food crops. Common game are mammals like tapirs, pacas, monkeys, as well as fowls and crocodiles. Different methods are employed to catch fish: with nets, spears or hooks (traditionally with the thorn of the garabata liana), or by poisoning a fraction of the river. Cassava  (Urarina laano) is one of the most common staple crops, along with plaintains and  *urari*, a tuber that is consumed grilled, fried or as a soup ingredient. Fruits like small bananas, and papaya, may also be grown. The Urarina have small gardens surrounding the house and larger gardens located at a distance of several hours walks.
+
+<br clear="left"/>
+
+[![Urarina Villiage Map][3]{: width='300' align='right' }][4]
+
+   [3]:  assets/img/map_chambi.png
+   [4]:  assets/img/map_chambi.png "Urarina village"
 
 Lifestyle requires the Urarina to manufacture blowguns, darts, hammocks for infants, sleeping mats, clay pots, wooden spoons, baskets, necklaces and bags. Fibre extracted from the chambira palm or the aguaje palm is used for all kinds of weaving.
 
@@ -20,14 +40,5 @@ Urarina spirituality involves three important characters:
 2. kam kwaaunera letono the the Creator's envoy, a spirit in human shape. He is malevolent and tries to trao people by creating all sorts of difficulties and treacherous situations.
 3. Lomai 'Mother God' resides in magical terrain, surrounded by manny spiritual beings. Lomai stes up strict rules and disobedience results in punishment.
 
-## Explore and enjoy the Urarina world through the lens of their artefacts
-
-
-
-
-
-
-
-
-
+## Explore and enjoy the Urarina world through the lens of their artifacts
 
