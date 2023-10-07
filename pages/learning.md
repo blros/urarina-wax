@@ -6,6 +6,8 @@ title: Building this website
 
 For building this website the team adheres to the principles of minimal computing by using Jekyll as a platform and WAX as its theme.
 
+## Minimal computing
+
 ## Jekyll
 
 Facets is a [Wax](https://minicomp.github.io/wax/) theme. Wax in turn relies on Jekyll. To use Facets you need to be familiar with both Jekyll and Wax. To learn more about setting up and using Wax visit [the Wax wiki](https://minicomp.github.io/wiki/wax/). You can learn more about using Jekyll on the [Jekyll docs](https://jekyllrb.com/docs/), or in [this great tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) by Amanda Visconti at Programming Historian.
