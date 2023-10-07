@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Learning how to
+title: Building this website
 #permalink: /learning/
 ---
 
-## ... use Wax
+For building this website the team adheres to the principles of minimal computing by using Jekyll as a platform and WAX as its theme.
+
+## Jekyll
 
 Facets is a [Wax](https://minicomp.github.io/wax/) theme. Wax in turn relies on Jekyll. To use Facets you need to be familiar with both Jekyll and Wax. To learn more about setting up and using Wax visit [the Wax wiki](https://minicomp.github.io/wiki/wax/). You can learn more about using Jekyll on the [Jekyll docs](https://jekyllrb.com/docs/), or in [this great tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) by Amanda Visconti at Programming Historian.
 
-## ... create a faceted gallery
+## WAX
 
 As other Wax sites, _Facets_ depends on the metadata you create. Let's assume you are using a CSV to record data for your collection. In order for _Facets_ to work, that CSV must have designated columns for each large category you want to "facet" by. These become the _facet headers_ at the top of the drop-down menus above the gallery. Each of these columns then accepts a small range of sub-categories, or _facet values_. These become the check boxes.
 
