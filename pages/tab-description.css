@@ -27,3 +27,13 @@
 .tab-metadata-content .active {
   display: block;
 }
+
+.tab-label-content {
+  background-color: #ffffff;
+}
+.tab-label-content div {
+  display: none;
+}
+.tab-label-content .active {
+  display: block;
+}
