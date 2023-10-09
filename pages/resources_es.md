@@ -38,6 +38,21 @@ title: Recursos
 
 • Olawsky, Knut J. *Urarina texts.* De Gruyter, Inc, 2000.
 
+• Rondoni, Caterina. “Extractivism and Unjust Food Insecurity for Peru’s Loreto Indigenous Communities.” *Sustainability* (Basel, Switzerland), vol. 14, no. 12, 2022, p. 6954–, https://doi.org/10.3390/su14126954. 
+
+• Schulz, Christopher, et al. “Uses, Cultural Significance, and Management of Peatlands in the Peruvian Amazon: Implications for Conservation.” *Biological Conservation,* vol. 235, 2019, pp. 189–98, https://doi.org/10.1016/j.biocon.2019.04.005. 
+
+• Silva Villegas, Gema. “Estrategias de Nominación y Estructura de Los Nombres de Plantas En La Lengua Urarina.” *Forma y Función,* vol. 34, no. 1, 2021, pp. 33–77, https://doi.org/10.15446/fyf.v34n1.81411. 
+
+• Torrejón, Jaime Peña, and Gema Silva Villegas. “Estrategias de nominación en la nomenclatura etnozoológica urarina Ethnozoological Nomenclature.” *Lexis* (Pontificia Universidad Católica del Perú. Departamento de Humanidades), vol. 46, no. 1, 2022, p. 163–, https://doi.org/10.18800/lexis.202201.005. 
+
+• Walker, Harry. *Under a Watchful Eye : Self, Power, and Intimacy in Amazonia.* University of California Press, 2013. 
+
+• Walker, Harry. “Baby Hammocks and Stone Bowls: Urarina Technologies of Companionship and Subjection.” *The Occult Life of Things* University of Arizona Press, 2009, p. 81–, https://doi.org/10.2307/j.ctv1prss0p.7. 
+
+• Witzig, R., and M. Ascencios. “The Road to Indigenous Extinction: Case Study of Resource Exportation, Disease Importation, and Human Rights Violations Against the Urarina in the Peruvian Amazon.” *Health and Human Rights,* vol. 4, no. 1, 1999, pp. 60–81, https://doi.org/10.2307/4065168.
+
+
 ---
 layout: page
 title: Resources
