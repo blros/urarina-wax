@@ -1,0 +1,29 @@
+.tab-description-label {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.tab-description-label .active {
+  background-color: #ffffff;
+  color: #4d5bf9;
+}
+
+.tab-description-content {
+  background-color: #ffffff;
+}
+.tab-description-content div {
+  display: none;
+}
+.tab-description-content .active {
+  display: block;
+}
+
+
+.tab-metadata-content {
+  background-color: #ffffff;
+}
+.tab-metadata-content div {
+  display: none;
+}
+.tab-metadata-content .active {
+  display: block;
+}
