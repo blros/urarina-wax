@@ -36,6 +36,8 @@ title: Recursos
 
 • Olawsky, Knut J. *A Grammar of Urarina.* De Gruyter, Inc, 2011. 
 
+• Olawsky, Knut J. *Urarina texts.* De Gruyter, Inc, 2000.
+
 ---
 layout: page
 title: Resources
