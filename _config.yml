@@ -80,7 +80,7 @@ menu:
         link: "pages/resources.html"
       - label: "Rights & Reuse"
         link: "pages/rights.html"
-      - label: "How To"
+      - label: "Building the Site"
         link: "pages/learning.html"
 
 plugins:
