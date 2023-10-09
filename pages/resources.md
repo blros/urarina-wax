@@ -5,12 +5,19 @@ title: Resources
 ---
 
 ## Digital and public resources 
- | Urarina: identidad y memoria en la cuenca del río Chambira: [https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf](https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf)|
-|Urarina: [https://en.wikipedia.org/wiki/Urarina](https://en.wikipedia.org/wiki/Urarina)| 
-|Perú ecológico: [https://www.peruecologico.com.pe/etnias\_urarina.htm](https://www.peruecologico.com.pe/etnias\_urarina.htm)| 
-|Urarina language: [https://en.wikipedia.org/wiki/Urarina\_language](https://en.wikipedia.org/wiki/Urarina\_language)|     
-| DGH in the Peruvian Amazon: https://web.archive.org/web/20070405085835/http://www.dghonline.org/nl4/peruvian.htm  
-|Centro de recursos interculturales:[https://centroderecursos.cultura.pe/es/palabrasclave/urarina](https://centroderecursos.cultura.pe/es/palabrasclave/urarina)| 
+ | Urarina: identidad y memoria en la cuenca del río Chambira: [https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf]
+(https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf)|
+
+| Urarina: [https://en.wikipedia.org/wiki/Urarina](https://en.wikipedia.org/wiki/Urarina)| 
+
+| Perú ecológico: [https://www.peruecologico.com.pe/etnias\_urarina.htm](https://www.peruecologico.com.pe/etnias\_urarina.htm)| 
+
+| Urarina language: [https://en.wikipedia.org/wiki/Urarina\_language](https://en.wikipedia.org/wiki/Urarina\_language)|     
+
+| DGH in the Peruvian Amazon: https://web.archive.org/web/20070405085835/http://www.dghonline.org/nl4/peruvian.htm |
+
+| Centro de recursos interculturales:[https://centroderecursos.cultura.pe/es/palabrasclave/urarina](https://centroderecursos.cultura.pe/es/palabrasclave/urarina)| 
+
 
 ## Books and articles 
 
