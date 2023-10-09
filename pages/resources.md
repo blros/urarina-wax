@@ -36,6 +36,8 @@ title: Resources
 
 • Olawsky, Knut J. *A Grammar of Urarina.* De Gruyter, Inc, 2011. 
 
+• Olawsky, Knut J. *Urarina texts.* De Gruyter, Inc, 2000. 
+
 • Rondoni, Caterina. “Extractivism and Unjust Food Insecurity for Peru’s Loreto Indigenous Communities.” *Sustainability* (Basel, Switzerland), vol. 14, no. 12, 2022, p. 6954–, https://doi.org/10.3390/su14126954. 
 
 • Schulz, Christopher, et al. “Uses, Cultural Significance, and Management of Peatlands in the Peruvian Amazon: Implications for Conservation.” *Biological Conservation,* vol. 235, 2019, pp. 189–98, https://doi.org/10.1016/j.biocon.2019.04.005. 
