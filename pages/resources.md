@@ -5,8 +5,7 @@ title: Resources
 ---
 
 ## Digital and public resources 
- - Urarina: identidad y memoria en la cuenca del río Chambira:[https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf](https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf)
-
+ - Urarina: identidad y memoria en la cuenca del río Chambira: [https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf](https://repositorio.iiap.gob.pe/bitstream/20.500.12921/391/1/Martin\_urarina\_2019.pdf)
 - Urarina: [https://en.wikipedia.org/wiki/Urarina](https://en.wikipedia.org/wiki/Urarina)
 - Urarina language: [https://en.wikipedia.org/wiki/Urarina\_language](https://en.wikipedia.org/wiki/Urarina\_language)  
 - Perú ecológico: [https://www.peruecologico.com.pe/etnias\_urarina.htm](https://www.peruecologico.com.pe/etnias\_urarina.htm)
