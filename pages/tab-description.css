@@ -1,8 +1,8 @@
-.tab-description-label {
+.tab-selectors {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
-.tab-description-label .active {
+.tab-selectors .active {
   background-color: #ffffff;
   color: #4d5bf9;
 }
@@ -28,12 +28,12 @@
   display: block;
 }
 
-.tab-label-content {
+.tab-title-content {
   background-color: #ffffff;
 }
-.tab-label-content div {
+.tab-title-content div {
   display: none;
 }
-.tab-label-content .active {
+.tab-title-content .active {
   display: block;
 }

@@ -2,7 +2,8 @@
 <div class="container">
 
   <div class="container">
-  <div class="tab-label-content">
+  <div class="tab-title-content">
+
       <div> <h1 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h1></div>
       <div> <h1 alt="{{ page.label }}" class='item-label'>{{ page.title-es }}</h1></div>
       <div> <h1 alt="{{ page.label }}" class='item-label'>{{ page.title-ura }}</h1></div>
@@ -11,14 +12,17 @@
 
    <div class="container">
       <div class="tab-metadata-content">
+
         <div> <dl class='metadata-block w-100'> 
             <dt>Type</dt><dd>{{ page.type | strip }}</dd>
             <dt>Material</dt><dd>{{ page.material | strip }}</dd>
             <dt>SMA ID</dt><dd>{{ page.pid | strip }}</dd></dl> </div>
+
         <div> <dl class='metadata-block w-100'> 
             <dt>Type</dt><dd>{{ page.type-es | strip }}</dd>
             <dt>Material</dt><dd>{{ page.material-es | strip }}</dd>
             <dt>SMA ID</dt><dd>{{ page.pid | strip }}</dd></dl> </div>
+
         <div> <dl class='metadata-block w-100'> 
             <dt>Type</dt><dd>{{ page.type-ura | strip }}</dd>
             <dt>Material</dt><dd>{{ page.material-ura | strip }}</dd>
