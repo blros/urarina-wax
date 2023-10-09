@@ -36,7 +36,7 @@ title: Resources
 
 • Olawsky, Knut J. *A Grammar of Urarina.* De Gruyter, Inc, 2011. 
 
-• Olawsky, Knut J. *Urarina texts.* De Gruyter, Inc, 2000. 
+• Olawsky, Knut J. *Urarina texts.* Lincom, Inc, 2000. 
 
 • Rondoni, Caterina. “Extractivism and Unjust Food Insecurity for Peru’s Loreto Indigenous Communities.” *Sustainability* (Basel, Switzerland), vol. 14, no. 12, 2022, p. 6954–, https://doi.org/10.3390/su14126954. 
 
