@@ -7,7 +7,7 @@ gallery: True
 
 This collection comprises artefacts of the Urarina people and form part of the Urarina Digital Heritage Project, an initiave to preserve Urarina tradition.
 
-The artefacts have been collected by Dr. Bartholomew Barth during field trips to the Urarina territory, and are currently hosted by the Spencer Museum, Lawrence, Kansas. 
+The artefacts have been collected by Dr. Bartholomew Dean during field trips to the Urarina territory, and are currently hosted by the Spencer Museum, Lawrence, Kansas. 
 
 Click to visit [Spencer Museum of Art](https://www.spencerart.ku.edu/)
 
