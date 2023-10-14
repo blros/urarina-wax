@@ -15,8 +15,9 @@ layout: page
 &nbsp;
 
 ---
+<br clear="left">
 <h2 style="font-family: Al Tarikh; size=">Laenanuuinelanaala jelaia Urarina kainara kuina amiianena</h2>
-<br><br>
+<br clear="left">
   
 This project supports the  effort of the Urarina people to preserve their cultural heritage and knowledge. It is is committed to decolonization in digital knowledge production.
 
