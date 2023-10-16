@@ -4,7 +4,7 @@ layout: page
 
 
 
-![alt-text-1](assets/logo/Urarina-logo-with-text4.png "Urarina logo"){: width="250" style="float:left; padding:16px"} 
+![alt-text-1](assets/logo/Urarina-logo-with-text4-166px.png "Urarina logo"){: width="250" style="float:left; padding:16px"} 
   
 &nbsp;
 &nbsp;
