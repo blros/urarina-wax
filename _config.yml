@@ -82,12 +82,12 @@ menu:
       - label: "Building the Site"
         link: "pages/learning.html"
 
-plugins:
-  - jekyll-multiple-languages-plugin
+#plugins:
+#  - jekyll-multiple-languages-plugin
 
 # Extras for multi language support
 # https://github.com/kurtsson/jekyll-multiple-languages-plugin
-languages: ["en", "es", "ur"]
+# languages: ["en", "es", "ur"]
 exclude_from_localizations: ["javascript", "images", "css"]
 
 # In code, these specific files should be referenced via baseurl_root. E.g.
