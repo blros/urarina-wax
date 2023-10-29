@@ -54,16 +54,6 @@ search:
           - type
           - subject
           - material
-          - description-es
-          - label-es
-          - type-es
-          - subject-es
-          - material-es
-          - description-ura
-          - label-ura
-          - type-ura
-          - subject-ura
-          - material-ura
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
