@@ -49,9 +49,5 @@ La espiritualidad urarina involucra tres personajes importantes:
 
 
 
-![alt-text-1](assets/img/panoramio_2.jpg "Urarina picture"){: width="550" } | ![alt-text-2](assets/img/map_ura.png "Urarina teritory"){: width="250" } ![alt-text-3](assets/img/map_chambi.png "Chambira River Basin"){: width="250" }
-
-
-
 
 
