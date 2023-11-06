@@ -13,10 +13,13 @@ Minimal computing  advocates for using only the technologies that are necessary 
  - “What don’t we need?”
  - “What do we want?”
  - “What don’t we want?”
+
 The term 'minimal' refers to minimal design, minimal maintenance, minimal dependencies, and minimal connectivity.
 
 ## Jekyll
-Jekyll is a static site generator (SSG) written and run on the RUBY programming language. Unless you are a developer no knowledge of RUBY is required. Jekyll is designed to create sites based on principles of minimal computing. The platform uses plain text files in markdown syntax to create HTML files. Thus, for the creation of simple sites no prior knowledge of HTML or CSS is needed. The generated HTML files can be deployed to a web server. Jekyll offers a variety of themes by means of which different types of websites can be created. 
+Jekyll is a static site generator (SSG) written and run on the RUBY programming language. Unless you are a developer no knowledge of RUBY is required. Static websites consist of flat HTML, CSS, and JavaScript files that don’t need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain—as long as you’re willing to learn some new skills.
+
+Jekyll is designed to create sites based on principles of minimal computing. The platform uses plain text files in markdown syntax to create HTML files. Thus, for the creation of simple sites no prior knowledge of HTML or CSS is needed. The generated HTML files can be deployed to a web server. Jekyll offers a variety of themes by means of which different types of websites can be created. 
 
 The Urarina Digital Heritage Project is an digital collection exhibit for which the WAX Jekyll theme was employed. A collection site is a complex site, and even more so if it aims to be a trilingual site. Plug-ins help to to add functionality, hovever some developping sklills were needed at some point.
 
@@ -27,7 +30,7 @@ You can learn more about using Jekyll on the [Jekyll docs](https://jekyllrb.com/
 
 
 ## WAX
-[Wax](https://minicomp.github.io/wax/) is a Jekyll theme. It depends on metadata created in a .csv sheet that records the data of a collection.
+[Wax](https://minicomp.github.io/wax/) is a Jekyll theme. It depends on metadata created in a .csv sheet that records the data of a collection. 
 
 WAX has implemented Facets, a tool .....
 
