@@ -1,4 +1,4 @@
 
-rake wax:search urarina
-#bundle exec rake wax:search urarina
+rake wax:search main
+#bundle exec rake wax:search main
 
