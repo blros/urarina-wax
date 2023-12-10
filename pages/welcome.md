@@ -5,8 +5,8 @@ title:  Welcome to the world of the Urarina
 
 [![Urarina Territory Picture][5]{: width='800'}][6]
 
-   [5]:  assets/img/panoramio_3.jpg
-   [6]:  assets/img/panoramio_2.jpg "Urarina Picture"
+   [5]:  ../assets/img/panoramio_3.jpg
+   [6]:  ../assets/img/panoramio_2.jpg "Urarina Picture"
 
 <br clear="left"/>
 
@@ -16,8 +16,8 @@ The Urarina are an indigenous people of the Amazon Basin who live in the valleys
 
 [![Urarina Territory Map][1]{: width='300' align='left' }][2]
 
-   [1]:  assets/img/map_ura.png
-   [2]:  assets/img/map_ura.png "Urarina teritory"
+   [1]:  ../assets/img/map_ura.png
+   [2]:  ../assets/img/map_ura.png "Urarina teritory"
 
 <span flow="right">
 The Urarina people recognize themselves under the term _urarinaaürü_, which means 'people'. In Quechua, the term is rendered as  _urayruna_, _uray_ meaning 'below', and  _runa_ being the plural marker in the language, thus the term meaning 'the people from below, i.e., downstream'.
@@ -28,8 +28,8 @@ The Urarina people recognize themselves under the term _urarinaaürü_, which me
 
 [![Urarina Villiage Map][3]{: width='300' align='right' }][4]
 
-   [3]:  assets/img/map_chambi.png
-   [4]:  assets/img/map_chambi.png "Urarina village"
+   [3]:  ../assets/img/map_chambi.png
+   [4]:  ../assets/img/map_chambi.png "Urarina village"
 
 Lifestyle requires the Urarina to manufacture blowguns, darts, hammocks for infants, sleeping mats, clay pots, wooden spoons, baskets, necklaces and bags. Fibre extracted from the chambira palm or the aguaje palm is used for all kinds of weaving.
 

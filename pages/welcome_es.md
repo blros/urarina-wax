@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Bienvenido al mundo de los Urarina
----
-
----
-layout: page
 title:  Welcome to the world of the Urarina
 ---
 
 [![Urarina Territory Picture][5]{: width='800'}][6]
 
-   [5]:  assets/img/panoramio_3.jpg
-   [6]:  assets/img/panoramio_2.jpg "Urarina Picture"
+   [5]:  ../assets/img/panoramio_3.jpg
+   [6]:  ../assets/img/panoramio_2.jpg "Urarina Picture"
 
 <br clear="left"/>
 
@@ -21,8 +16,8 @@ Los Urarina son un pueblo indígena de la cuenca del Amazonas que vive en los va
 
 [![Urarina Territory Map][1]{: width='300' align='left' }][2]
 
-   [1]:  assets/img/map_ura.png
-   [2]:  assets/img/map_ura.png "Urarina teritory"
+   [1]:  ../assets/img/map_ura.png
+   [2]:  ../assets/img/map_ura.png "Urarina teritory"
 
 <span flow="right">
 El pueblo Urarina se reconoce bajo el término urarinaaürü, que significa 'pueblo'. En quechua, el término se traduce como urayruna, uray significa "abajo" y runa es el marcador plural en el idioma, por lo que el término significa "la gente de abajo, es decir, río abajo".
@@ -33,8 +28,8 @@ El pueblo Urarina se reconoce bajo el término urarinaaürü, que significa 'pue
 
 [![Urarina Villiage Map][3]{: width='300' align='right' }][4]
 
-   [3]:  assets/img/map_chambi.png
-   [4]:  assets/img/map_chambi.png "Urarina village"
+   [3]:  ../assets/img/map_chambi.png
+   [4]:  ../assets/img/map_chambi.png "Urarina village"
 
 El estilo de vida exige que los Urarina fabriquen cerbatanas, dardos, hamacas para bebés, colchonetas, vasijas de barro, cucharas de madera, cestas, collares y bolsos. La fibra extraída de la palma chambira o de la palma aguaje se utiliza para todo tipo de tejidos.
 
