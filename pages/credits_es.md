@@ -1,3 +1,11 @@
+---
+layout: page
+title: Credits
+#permalink: /credits/
+---
+
+{% include langcode_url.html %}
+
 El Proyecto de Patrimonio Digital Urarina es un esfuerzo de colaboración internacional que involucra a miembros de la comunidad Urarina, investigadores en Perú y profesores, bibliotecarios, personal de museos y tecnólogos en los EE. UU. El equipo continuará evolucionando a medida que el proyecto avance hacia nuevas fases.
 
 ## Equipo de desarrollo

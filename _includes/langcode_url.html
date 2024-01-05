@@ -1,0 +1,9 @@
+
+{% assign burl = page.url | absolute_url | split: "_" %}
+{% assign burl0 = burl[0] | replace: '.html', '' %}
+[English]( {{ burl0 | append: ".html"  }} )
+[Spanish]( {{ burl0 | append: "_es.html"  }} )
+[Urarina]( {{ burl0 | append: "_ur.html"  }} )
+
+
+

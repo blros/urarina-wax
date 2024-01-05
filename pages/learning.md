@@ -3,6 +3,7 @@ layout: page
 title: Building this website
 #permalink: /learning/
 ---
+{% include langcode_url.html %}
 As the Digital Humanities engage with different levels of computing it is important to consider longevity and transparency engaging digital humanities under constraints of software, network capacity, power, and other aspects.
 For building this website the team adheres to the principles of minimal computing by using Jekyll as a platform to generate a static website and WAX as its theme to build a digtal collection. 
 

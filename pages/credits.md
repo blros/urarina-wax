@@ -4,6 +4,7 @@ title: Credits
 #permalink: /credits/
 ---
 
+{% include langcode_url.html %}
 
 The Urarina Digital Heritage Project is an international collaborative effort involving member of the Urarina community, researchers in Peru, and faculty, librarians, museum staff and technologists in the U.S. The team will continue to evolve as the project moves into new phases.
 

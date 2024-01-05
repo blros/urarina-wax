@@ -3,6 +3,8 @@ layout: page
 title:  Welcome to the world of the Urarina
 ---
 
+{% include langcode_url.html %}
+
 [![Urarina Territory Picture][5]{: width='800'}][6]
 
    [5]:  ../assets/img/panoramio_3.jpg

@@ -4,6 +4,7 @@ title: Explora la coleccion
 gallery: True
 #permalink: /collection/
 ---
+{% include langcode_url.html %}
 Esta colección comprende artefactos del pueblo Urarina y forma parte del Proyecto de Patrimonio Digital Urarina, una iniciativa para preservar la tradición Urarina.
 
 Los artefactos han sido recolectados por el Dr. Bartholomew Dean durante viajes de campo al territorio de Urarina y actualmente se encuentran en el Museo Spencer, Lawrence, Kansas.

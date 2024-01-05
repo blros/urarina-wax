@@ -4,6 +4,7 @@ title: Browse the Collection
 gallery: True
 #permalink: /collection/
 ---
+{% include langcode_url.html %}
 
 This collection comprises artefacts of the Urarina people and form part of the Urarina Digital Heritage Project, an initiave to preserve Urarina tradition.
 

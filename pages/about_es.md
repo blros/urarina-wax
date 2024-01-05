@@ -3,6 +3,7 @@ layout: page
 title: Sobre el Proyecto Patrimonio Digital Urarina
 #permalink: /about/
 ---
+{% include langcode_url.html %}
 
 Fusionando la antropología pública con las humanidades digitales, el Proyecto Patrimonio Digital Urarina hará uso de sistemas de gestión de información y protocolos culturales indígenas para crear una colección digital del patrimonio cultural Urarina y explorar cuestiones relacionadas con los archivos digitales indígenas. Trabajando en colaboración con especialistas culturales de Urarina, el proyecto está dedicado a descolonizar las prácticas de archivo y los modos de acceso a través del reconocimiento de las sensibilidades, prácticas de conocimiento y prohibiciones indígenas para la curación de materiales culturales, tangibles o no. En asociación con académicos y miembros no académicos en los Estados Unidos y Perú, nuestro trabajo tiene como objetivo facilitar espacios digitales para que las comunidades Urarina mantengan, accedan, narren e intercambien su historia y patrimonio digital de manera ética y culturalmente relevante.
 
